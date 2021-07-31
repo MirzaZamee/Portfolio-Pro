@@ -1,0 +1,333 @@
+@media (max-width: 1440px) and (min-width: 1200px){
+    .intro {
+        margin: 80px auto 125px;
+        width: 63%;
+    }
+    .intro h1 {
+        font-size: 96px;
+        line-height: 96px;
+    }
+}
+@media (max-width: 1199px) and (min-width: 992px){
+    .intro {
+        margin: 54px auto 125px;
+        width: 72%;
+    }
+    .intro h1 {
+        font-size: 90px;
+        line-height: 90px;
+    }
+    .intro h5 {
+        font-size: 40px;
+    }
+    .logo {
+    }
+    nav ul {
+    }
+}
+@media (max-width: 991px) and (min-width: 768px){
+    .intro {
+        margin: 54px auto 96px;
+        text-align: center;
+        width: 100%;
+    }
+    .intro h1 {
+        font-size: 83px;
+        line-height: 90px;
+    }
+    .intro h5 {
+        font-size: 45px;
+    }
+    .logo {
+        width: 30%;
+        display: inline-block;
+    }
+    nav {
+        display: inline-block;
+        width: 69%;
+    }
+    nav ul {
+        justify-content: flex-end;
+    }
+    .heading-2 h2 {
+        font-size: 57px;
+    }
+    .right {
+        margin: 51px auto 81px;
+        width: 100%;
+        text-align: center;
+    }
+    .social ul {
+        justify-content: space-between;
+        width: 18%;
+        margin: auto;
+    }
+    .social ul li {
+        margin-right: 0;
+    }
+}
+@media (max-width: 767px) and (min-width: 576px){
+    .intro {
+        margin: 54px auto 96px;
+        text-align: center;
+        width: 90%;
+    }
+    .intro h1 {
+        font-size: 82px;
+        line-height: 87px;
+    }
+    .intro h5 {
+        font-size: 44px;
+        margin-bottom: 4px;
+    }
+    .logo {
+        width: 30%;
+        display: inline-block;
+    }
+    .navigation{
+        display: none;
+    }
+    .heading-2 h2 {
+        font-size: 50px;
+    }
+    .right {
+        margin: 51px auto 81px;
+        width: 100%;
+        text-align: center;
+    }
+    .social ul {
+        justify-content: space-between;
+        width: 22%;
+        margin: auto;
+    }
+    .social ul li {
+        margin-right: 0;
+    }
+    .photo h3 {
+        font-size: 29px;
+    }
+    .indicator i {
+        font-size: 20px;
+    }
+    .navbar{
+        display: inherit;
+    }
+    nav ul li {
+        margin-right: 0;
+    }
+    nav ul li a {
+        font-size: 17px;
+    }
+}
+@media (max-width: 575px) and (min-width: 0px){
+    .intro {
+        margin: 54px auto 96px;
+        text-align: center;
+        width: 90%;
+    }
+    .intro h1 {
+        font-size: 77px;
+        line-height: 77px;
+    }
+    .intro h5 {
+        font-size: 42px;
+        margin-bottom: 4px;
+    }
+    .logo {
+        width: 30%;
+        display: inline-block;
+    }
+    .navigation{
+        display: none;
+    }
+    .heading h2 {
+        font-size: 47px;
+    }
+    .heading-2 h2 {
+        font-size: 49px;
+    }
+    .right {
+        margin: 51px auto 81px;
+        width: 100%;
+        text-align: center;
+    }
+    .social ul {
+        justify-content: space-between;
+        width: 30%;
+        margin: auto;
+    }
+    .social ul li {
+        margin-right: 0;
+    }
+    .photo h3 {
+        font-size: 35px;
+    }
+    .indicator i {
+        font-size: 20px;
+        padding: 14px;
+    }
+    .navbar{
+        display: inherit;
+    }
+    nav ul li {
+        margin-right: 0;
+        margin-bottom: 20px;
+    }
+    nav ul li a {
+        font-size: 18px;
+    }
+    .navbar-nav {
+        flex-direction: column;
+        width: 100%;
+        padding-top: 44px;
+        text-align: center;
+    }
+    .right h1 {
+        font-size: 59px;
+    }
+    .cf{
+        padding: 0 5px;
+    }
+    .heading .one {
+        width: 78%;
+    }
+    .heading .two {
+        width: 7%;
+    }
+}
+@media (max-width: 375px) and (min-width: 0px){
+    .intro {
+        margin: 54px auto 96px;
+        text-align: center;
+        width: 90%;
+    }
+    .intro h1 {
+        font-size: 70px;
+        line-height: 70px;
+    }
+    .intro h5 {
+        font-size: 40px;
+        margin-bottom: 4px;
+    }
+    .logo {
+        width: 30%;
+        display: inline-block;
+    }
+    .navigation{
+        display: none;
+    }
+    .heading h2 {
+        font-size: 42px;
+    }
+    .heading-2 h2 {
+        font-size: 45px;
+    }
+    .right {
+        margin: 51px auto 81px;
+        width: 100%;
+        text-align: center;
+    }
+    .social ul {
+        justify-content: space-between;
+        width: 30%;
+        margin: auto;
+    }
+    .social ul li {
+        margin-right: 0;
+    }
+    .photo h3 {
+        font-size: 35px;
+    }
+    .indicator i {
+        font-size: 20px;
+        padding: 14px;
+    }
+    .navbar{
+        display: inherit;
+    }
+    nav ul li {
+        margin-right: 0;
+        margin-bottom: 20px;
+    }
+    nav ul li a {
+        font-size: 18px;
+    }
+    .navbar-nav {
+        flex-direction: column;
+        width: 100%;
+        padding-top: 44px;
+        text-align: center;
+    }
+    .right h1 {
+        font-size: 56px;
+    }
+
+}
+@media (max-width: 320px) and (min-width: 0px){
+    .intro {
+        margin: 54px auto 82px;
+        text-align: center;
+        width: 90%;
+    }
+    .intro h1 {
+        font-size: 67px;
+        line-height: 67px;
+    }
+    .intro h5 {
+        font-size: 39px;
+        margin-bottom: 3px;
+    }
+    .logo {
+        width: 30%;
+        display: inline-block;
+    }
+    .navigation{
+        display: none;
+    }
+    .heading h2 {
+        font-size: 42px;
+    }
+    .heading-2 h2 {
+        font-size: 45px;
+    }
+    .right {
+        margin: 51px auto 81px;
+        width: 100%;
+        text-align: center;
+    }
+    .social ul {
+        justify-content: space-between;
+        width: 30%;
+        margin: auto;
+    }
+    .social ul li {
+        margin-right: 0;
+    }
+    .photo h3 {
+        font-size: 32px;
+    }
+    .indicator i {
+        font-size: 19px;
+        padding: 13px;
+    }
+    .navbar{
+        display: inherit;
+    }
+    nav ul li {
+        margin-right: 0;
+        margin-bottom: 20px;
+    }
+    nav ul li a {
+        font-size: 18px;
+    }
+    .navbar-nav {
+        flex-direction: column;
+        width: 100%;
+        padding-top: 44px;
+        text-align: center;
+    }
+    .right h1 {
+        font-size: 56px;
+    }
+
+}
